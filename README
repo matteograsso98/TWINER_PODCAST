@@ -1,1 +1,9 @@
 README
+
+I own a tennis podcast named twiner_podcast. I want to automate the Instagram posting to let the podcast grow. The more regularly we post, the more we should grow...
+
+The code needs to: 
+
+- Search for tennis news, and summarize it in a few sentences;
+- Fill an Instagram post template without formatting issues; 
+- Connect to the Instagram API and post automatically (say, every 3-4 days).
